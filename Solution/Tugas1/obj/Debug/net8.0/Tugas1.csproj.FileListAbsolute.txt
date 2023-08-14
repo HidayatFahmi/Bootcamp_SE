@@ -1,0 +1,15 @@
+D:\C#\Bootcamp_SE\Solution\Tugas1\bin\Debug\net8.0\Tugas1.exe
+D:\C#\Bootcamp_SE\Solution\Tugas1\bin\Debug\net8.0\Tugas1.deps.json
+D:\C#\Bootcamp_SE\Solution\Tugas1\bin\Debug\net8.0\Tugas1.runtimeconfig.json
+D:\C#\Bootcamp_SE\Solution\Tugas1\bin\Debug\net8.0\Tugas1.dll
+D:\C#\Bootcamp_SE\Solution\Tugas1\bin\Debug\net8.0\Tugas1.pdb
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.AssemblyInfoInputs.cache
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.AssemblyInfo.cs
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.sourcelink.json
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.dll
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\refint\Tugas1.dll
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.pdb
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\Tugas1.genruntimeconfig.cache
+D:\C#\Bootcamp_SE\Solution\Tugas1\obj\Debug\net8.0\ref\Tugas1.dll

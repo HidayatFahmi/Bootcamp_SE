@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A0_Delegate\\A0_Delegate.csproj": {}
+  },
+  "projects": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A0_Delegate\\A0_Delegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A0_Delegate\\A0_Delegate.csproj",
+        "projectName": "A0_Delegate",
+        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A0_Delegate\\A0_Delegate.csproj",
+        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A0_Delegate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\bin\Debug\net7.0\OpertaorOverloading.exe
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\bin\Debug\net7.0\OpertaorOverloading.deps.json
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\bin\Debug\net7.0\OpertaorOverloading.runtimeconfig.json
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\bin\Debug\net7.0\OpertaorOverloading.dll
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\bin\Debug\net7.0\OpertaorOverloading.pdb
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.csproj.AssemblyReference.cache
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.AssemblyInfoInputs.cache
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.AssemblyInfo.cs
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.csproj.CoreCompileInputs.cache
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.dll
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\refint\OpertaorOverloading.dll
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.pdb
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\OpertaorOverloading.genruntimeconfig.cache
+D:\Formulatrix\Bootcamp_SE\Solution\OpertaorOverloading\obj\Debug\net7.0\ref\OpertaorOverloading.dll

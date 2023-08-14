@@ -1,0 +1,176 @@
+Day 1:
+1. Install VSCode
+2. instal ekstensi C# DevKit
+3. install .Net Core Test Explore
+4. install Live Share
+5. install Auto complete .AI
+6. Install MS Build Tools dan MSBuild project Tools
+7. Install vscode-solution-explorer
+8. register obsidian/notion
+9. Install C# curly formatter
+
+* C# Project Structure
+- Declare solution file, bisa menampung multiple project. dengan cara jlankan terminal
+1. pada folder yagn dibuka ketik dotnet new sln
+2. buat folder
+3. masuk ker folder
+4. ketik dotnet new console
+5. dotnet run, untuk running program + build
+6. dotnet build utk build
+
+
+* Membuat class diagram
+
+////////////////// Day 2:
+inheritance
+
+Day 3:
+* encapsulation
+- public, private, protected, internal
+- internal berhubungan dengan compilers
+
+* polymorphism
+- overloading, overriding
+
+Day 4 :
+* Abstraction
+1. concret class
+2. abstract class
+- abstract class dan Interface tidak bsa diinisiasi / new
+3. interface class
+- huruf I didepan
+- tidak boleh variabel
+- hanya terdapat class tanpa isi
+
+
+Day5 :
+- static berdiri sendiri
+- tipe data dengan ukuran lebih besar tidak bisa diinput kedalam tipe data dengan memory yg lebih kecil
+- casting explisit dan implisit
+- SOLID Coding
+
+Day6 :
+* Upcast & downcase
+- upcast itu memparsing data dari tipe data kecil ke besar sama dengan implisit casting
+- downcase kebalikann upcast, konsepnya sama dengan explisit.
+
+* Pattern matching
+
+* Ref, in, out
+- ref, memparsing alamat
+- out, tidak menginisialisasi nilai namun setelah function nilai sdh harusterisi
+- in, nilai sudah terisi dan tidak boleh mnegubah nila
+- try parse, megnhindari error ketika memparsing variabel dengan tipe data berbeda
+
+* terdapat 2 jenis RAM yaitu 
+1. stack, unutk menyimpan tipe data (value type) seperti char, int, long, float, double dll. ysng derig diakses dan bersifat LIFO (last input first output)
+2. Heap, ukurannya lebih besar dari stack dan unutk menyimpan tipe data (reference type). alamatnya saja yang disimpan didalm type.
+    tipe data reference type yaitu string, array, object, class, collection
+
+* string bersifat immutable
+artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi itu menggunakan stringBuilder.
+
+* const and Read Only
+- const sama dengan static
+- ReadOnly, tidak bisa merubah data selain didalam contructor
+
+* ekstensi polyglot, notebook
+
+* Enum, collection of const biasanya diaplikasikan unutk game
+
+* generic
+* Partial
+* Tuple
+
+//////////////////////// Day7
+* Delegate
+  mengeksekusi program bersamaan dengan berjalannya program lain
+  - bisa membuat instance
+  - delegate bisa mempassing method
+  - tidak bisa mendeclare 2 class
+  - hsnys bids mnembhshks method dengan signature yang sama
+
+* tipe class 
+- class
+- Struct
+- Enum
+- generic class
+- delegate
+- abstract
+- interface
+* Download mermaid
+
+////////////////////// Day 8
+* bungkus object dulu baru dibuka dengan tipe data yang sesuai
+* publisher and subscriber 
+* MyEvent?.Invoke (message) //mengeksekusi file jiks delegate tidak memiliki value null
+* event hanya bisa += dan -= todak bisa =
+* jika tidak mendeclare delegate pada class maka akan otomstis membuat  delegate dengan type data void dengan 2 object yaitu object dan eventArgs
+* direkomendasikan dengan return type void 
+* harus dengan eventHandler jik tidak mendeklarasikan event sebelumnya
+
+* exception eventHandler
+- try catch
+- berlakukan pada error khusus unutk mempermudah investigasi
+
+* Tugas kerjakan di gist
+
+//////////////// Day 9
+* operator overloading
+* Enum
+* Enumerator
+* try, Catch, Finally
+* Enumareble, tipe data yang bisa diiterasi array, collection dan data yang menerapkan Inumerable/ tipe data yang menerapkan interface (I);
+ - Inumerable return Inumerator yang terdiri dari moveNext, Current, dan Reset;
+ - Inumerator adalah mesin unutk mengiterasi
+ - collection terdiri dari dictionary dan list
+* interface = implement
+
+
+//////////////// Day 10
+
+* string, array of character
+* string method
+* date/ time
+- date time offset, mengukur per regional
+
+* timediff unutk mengukur rentang waktu
+* ==, value type
+* strict equals membandingkan  
+* lamda expression equals with arrow function inn javascript
+* {0:C2} mengambil 2 angka dibelakang koma 
+* unboxing car
+* Equal  di override jika parameter object
+
+/////////////////////// Day 11
+* collection
+* array
+  - array in c# fix size, type safety yaitu tipe data yg tetap
+  - akses array lewat index
+  - utuk mengtasasi fix size dengan dynamic/array list tapi tidak type safetys
+  - 
+- Hash Table
+
+* list<T>  menghandle perubahan sizw array dengan type safety
+- index
+- dynamic size
+- type safety
+- didalm litt tidak bisa mengiterasi jika terdapata data yang berbeda
+
+* array method
+ .add()
+ .remove()
+ .clear()
+ 
+ * HashSet<T>
+ - tidak bisa menampung data kedalam arary yang sudah menmpung value tersebut
+ - dynamic, typesafety, unique (harus memiliki data yang berbeda, kalau sama data tidak akan masuk)
+
+ * yang tidak boleh diaplikasikan di formulatrix ArrayList
+
+
+
+
+
+
+

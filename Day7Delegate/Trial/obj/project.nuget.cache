@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLPrdqjLZzLus0Cu5QxXGJHneTS6LlxiOipTMutrj0RuKSZdNl5M7F0LiioeK2Ws03vt5AStMBormYKhIkX0ZA==",
+  "success": true,
+  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\Trial\\Trial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batch 4\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\Batch 4\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\Batch 4\\.nuget\\packages\\google.apis.calendar.v3\\1.61.0.3095\\google.apis.calendar.v3.1.61.0.3095.nupkg.sha512",
+    "C:\\Users\\Batch 4\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\Batch 4\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lbo50+qVk/JO1CvNnPJksQ265MJAD4JIjsVWqlMx3O6/39+Zg1th//yaKLcJ8jGtZ2PKmb0xt/5oW9gVr6lOkA==",
+  "success": true,
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\Delegate\\Delegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.csproj.AssemblyReference.cache
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.AssemblyInfoInputs.cache
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.AssemblyInfo.cs
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.csproj.CoreCompileInputs.cache
+D:\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.exe
+D:\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.deps.json
+D:\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.runtimeconfig.json
+D:\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.dll
+D:\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.pdb
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.dll
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\refint\Encapsulation.cs.dll
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.pdb
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.genruntimeconfig.cache
+D:\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\ref\Encapsulation.cs.dll
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.AssemblyInfoInputs.cache
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.AssemblyInfo.cs
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.csproj.CoreCompileInputs.cache
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.sourcelink.json
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.dll
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\refint\Encapsulation.cs.dll
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.pdb
+D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.exe
+D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.deps.json
+D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.runtimeconfig.json
+D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.dll
+D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.pdb
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.genruntimeconfig.cache
+D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\ref\Encapsulation.cs.dll

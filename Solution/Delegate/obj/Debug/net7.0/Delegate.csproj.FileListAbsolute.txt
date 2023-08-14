@@ -1,0 +1,15 @@
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\bin\Debug\net7.0\Delegate.exe
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\bin\Debug\net7.0\Delegate.deps.json
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\bin\Debug\net7.0\Delegate.dll
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\bin\Debug\net7.0\Delegate.pdb
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.dll
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.pdb
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+D:\Formulatrix\Bootcamp_SE\Solution\Delegate\obj\Debug\net7.0\ref\Delegate.dll

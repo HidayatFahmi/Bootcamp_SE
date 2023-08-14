@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mS/ub0VeuXaYOpr91TI2I/N7Xwdv8UdZmT5DC/VvHU+KM1bDL1mz9ujmVJKlSx/ozGCXKsKV5/9v640Y2+KXaw==",
+  "success": true,
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\Encapsulation.cs\\Encapsulation.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

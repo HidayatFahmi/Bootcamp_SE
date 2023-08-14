@@ -1,0 +1,15 @@
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\bin\Debug\net7.0\EqualsComparison.exe
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\bin\Debug\net7.0\EqualsComparison.deps.json
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\bin\Debug\net7.0\EqualsComparison.runtimeconfig.json
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\bin\Debug\net7.0\EqualsComparison.dll
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\bin\Debug\net7.0\EqualsComparison.pdb
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.csproj.AssemblyReference.cache
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.AssemblyInfoInputs.cache
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.AssemblyInfo.cs
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.csproj.CoreCompileInputs.cache
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.dll
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\refint\EqualsComparison.dll
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.pdb
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\EqualsComparison.genruntimeconfig.cache
+D:\Formulatrix\Bootcamp_SE\Solution\EqualsComparison\obj\Debug\net7.0\ref\EqualsComparison.dll

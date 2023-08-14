@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1d9pl7FyWzxUwkh/g0Qi6I7nYuFuJ3K/UEjG9GAfGJI4727dNguMmQGvwoIn/DmR/MFpTln4XfdA0XnSNpkhYQ==",
+  "success": true,
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\ProjectAnimal\\ProjectAnimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

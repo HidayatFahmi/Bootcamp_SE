@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ede0dFw8QeCjrs7aSgDWtg35MSMRAkhQhASvmrtUnwJyTccZ+hxWusyANn3uSIE8UZ5fosTm4cyJauOHCc6TLg==",
+  "success": true,
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\ClassFahmi\\ClassFahmi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

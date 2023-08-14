@@ -1,0 +1,15 @@
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.csproj.AssemblyReference.cache
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.AssemblyInfoInputs.cache
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.AssemblyInfo.cs
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.csproj.CoreCompileInputs.cache
+D:\Bootcamp_SE\Solution\ProjectCar\bin\Debug\net7.0\ProjectCar.exe
+D:\Bootcamp_SE\Solution\ProjectCar\bin\Debug\net7.0\ProjectCar.deps.json
+D:\Bootcamp_SE\Solution\ProjectCar\bin\Debug\net7.0\ProjectCar.runtimeconfig.json
+D:\Bootcamp_SE\Solution\ProjectCar\bin\Debug\net7.0\ProjectCar.dll
+D:\Bootcamp_SE\Solution\ProjectCar\bin\Debug\net7.0\ProjectCar.pdb
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.dll
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\refint\ProjectCar.dll
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.pdb
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ProjectCar.genruntimeconfig.cache
+D:\Bootcamp_SE\Solution\ProjectCar\obj\Debug\net7.0\ref\ProjectCar.dll

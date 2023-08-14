@@ -1,0 +1,45 @@
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.csproj.AssemblyReference.cache
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.AssemblyInfoInputs.cache
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.AssemblyInfo.cs
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.csproj.CoreCompileInputs.cache
+D:\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.exe
+D:\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.deps.json
+D:\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.runtimeconfig.json
+D:\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.dll
+D:\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.pdb
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.dll
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\refint\ProjectAnimal.dll
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.pdb
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.genruntimeconfig.cache
+D:\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ref\ProjectAnimal.dll
+D:\SE Formulatrix\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.exe
+D:\SE Formulatrix\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.deps.json
+D:\SE Formulatrix\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.runtimeconfig.json
+D:\SE Formulatrix\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.dll
+D:\SE Formulatrix\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.pdb
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.AssemblyInfoInputs.cache
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.AssemblyInfo.cs
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.csproj.CoreCompileInputs.cache
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.sourcelink.json
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.dll
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\refint\ProjectAnimal.dll
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.pdb
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.genruntimeconfig.cache
+D:\SE Formulatrix\Solution\ProjectAnimal\obj\Debug\net7.0\ref\ProjectAnimal.dll
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.exe
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.deps.json
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.runtimeconfig.json
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.dll
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\bin\Debug\net7.0\ProjectAnimal.pdb
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.AssemblyInfoInputs.cache
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.AssemblyInfo.cs
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.sourcelink.json
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.dll
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\refint\ProjectAnimal.dll
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.pdb
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ProjectAnimal.genruntimeconfig.cache
+D:\C#\Bootcamp_SE\Solution\ProjectAnimal\obj\Debug\net7.0\ref\ProjectAnimal.dll

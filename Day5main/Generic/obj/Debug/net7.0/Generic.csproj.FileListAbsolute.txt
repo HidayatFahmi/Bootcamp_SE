@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\bin\Debug\net7.0\Generic.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\bin\Debug\net7.0\Generic.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\bin\Debug\net7.0\Generic.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\bin\Debug\net7.0\Generic.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\bin\Debug\net7.0\Generic.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\refint\Generic.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\Generic.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Generic\obj\Debug\net7.0\ref\Generic.dll
+D:\C#\Bootcamp_SE\Day5main\Generic\bin\Debug\net7.0\Generic.exe
+D:\C#\Bootcamp_SE\Day5main\Generic\bin\Debug\net7.0\Generic.deps.json
+D:\C#\Bootcamp_SE\Day5main\Generic\bin\Debug\net7.0\Generic.runtimeconfig.json
+D:\C#\Bootcamp_SE\Day5main\Generic\bin\Debug\net7.0\Generic.dll
+D:\C#\Bootcamp_SE\Day5main\Generic\bin\Debug\net7.0\Generic.pdb
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.AssemblyInfoInputs.cache
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.AssemblyInfo.cs
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.sourcelink.json
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.dll
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\refint\Generic.dll
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.pdb
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\Generic.genruntimeconfig.cache
+D:\C#\Bootcamp_SE\Day5main\Generic\obj\Debug\net7.0\ref\Generic.dll
