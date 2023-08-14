@@ -168,8 +168,11 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 
  * yang tidak boleh diaplikasikan di formulatrix ArrayList
 
-
-
+* tipe data linkedlist, analogi gerbong kereta
+- performance lebih cepat unutk ad dan remove items
+- terdapat ethod tambahan jika menggunakan linkedlist yaitu .Addlast
+- kelebihnan linked list, typesafety
+-  kelemahan, memory consume
 
 
 
