@@ -155,7 +155,7 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 - index
 - dynamic size
 - type safety
-- didalm litt tidak bisa mengiterasi jika terdapata data yang berbeda
+- didalm litt tidak bisa mengiterasi jika terdapat data yang berbeda
 
 * array method
  .add()
@@ -173,6 +173,13 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 - terdapat ethod tambahan jika menggunakan linkedlist yaitu .Addlast
 - kelebihnan linked list, typesafety
 -  kelemahan, memory consume
+
+* Dictionary menyimpan 2 data yaitu key da value. key harus unique. ytpe safety
+* HashTable, tidak type safety
+
+* Project Mahjong
+* Using Mermaid
+* relation class diagram
 
 
 

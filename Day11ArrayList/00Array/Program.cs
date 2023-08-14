@@ -1,8 +1,7 @@
 ﻿namespace ArrayDemo
 {
 	class Program
-	{
-		static void Main()
+	{		static void Main()
 		{
 			Employee emp1 = new Employee("John",5);
 			Employee emp2 = new Employee("Zack",2);
