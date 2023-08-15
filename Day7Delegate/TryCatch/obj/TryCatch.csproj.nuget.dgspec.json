@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\TryCatch\\TryCatch.csproj": {}
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\TryCatch\\TryCatch.csproj": {}
   },
   "projects": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\TryCatch\\TryCatch.csproj": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\TryCatch\\TryCatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\TryCatch\\TryCatch.csproj",
+        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\TryCatch\\TryCatch.csproj",
         "projectName": "TryCatch",
-        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\TryCatch\\TryCatch.csproj",
+        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\TryCatch\\TryCatch.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\TryCatch\\obj\\",
+        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\TryCatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

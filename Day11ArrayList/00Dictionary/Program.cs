@@ -12,7 +12,6 @@ namespace GenericDictionaryDemo
 
             Dictionary<string, string> carBrands = new Dictionary<string, string>();
 
-
 			carBrands.Add("Toyota", "Corolla, Camry, RAV4");
 			carBrands.Add("Ford", "F-150, Mustang, Explorer");
 			carBrands.Add("Honda", "Civic, Accord, CR-V");

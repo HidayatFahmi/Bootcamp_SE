@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6b_Callback\\A6b_Callback.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6b_Callback\\A6b_Callback.csproj",
       "projectName": "A6b_Callback",
-      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6b_Callback\\A6b_Callback.csproj",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6b_Callback\\A6b_Callback.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6b_Callback\\obj\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6b_Callback\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

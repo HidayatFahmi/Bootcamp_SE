@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\EventAnalogy - RepairShop\\EventAnalogy - RepairShop.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\EventAnalogy - RepairShop\\EventAnalogy - RepairShop.csproj",
       "projectName": "EventAnalogy - RepairShop",
-      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\EventAnalogy - RepairShop\\EventAnalogy - RepairShop.csproj",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\EventAnalogy - RepairShop\\EventAnalogy - RepairShop.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\EventAnalogy - RepairShop\\obj\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\EventAnalogy - RepairShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

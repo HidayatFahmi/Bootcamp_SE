@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\B5_PublisherEvent\\B5_PublisherEvent.csproj": {}
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\B5_PublisherEvent\\B5_PublisherEvent.csproj": {}
   },
   "projects": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\B5_PublisherEvent\\B5_PublisherEvent.csproj": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\B5_PublisherEvent\\B5_PublisherEvent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\B5_PublisherEvent\\B5_PublisherEvent.csproj",
+        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\B5_PublisherEvent\\B5_PublisherEvent.csproj",
         "projectName": "B5_PublisherEvent",
-        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\B5_PublisherEvent\\B5_PublisherEvent.csproj",
+        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\B5_PublisherEvent\\B5_PublisherEvent.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\B5_PublisherEvent\\obj\\",
+        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\B5_PublisherEvent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

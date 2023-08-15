@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\Event2param\\Event2param.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\Event2param\\Event2param.csproj",
       "projectName": "Event2param",
-      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\Event2param\\Event2param.csproj",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\Event2param\\Event2param.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\Event2param\\obj\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\Event2param\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

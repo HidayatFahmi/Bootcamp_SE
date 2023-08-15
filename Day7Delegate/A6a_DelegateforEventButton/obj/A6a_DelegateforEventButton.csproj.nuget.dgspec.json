@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj": {}
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj": {}
   },
   "projects": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj",
+        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj",
         "projectName": "A6a_DelegateforEventButton",
-        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj",
+        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6a_DelegateforEventButton\\obj\\",
+        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6a_DelegateforEventButton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

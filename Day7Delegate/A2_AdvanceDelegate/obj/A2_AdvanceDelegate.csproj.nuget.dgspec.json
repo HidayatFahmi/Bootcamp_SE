@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj": {}
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj": {}
   },
   "projects": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj",
+        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj",
         "projectName": "A2_AdvanceDelegate",
-        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj",
+        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegate\\A2_AdvanceDelegate.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegate\\obj\\",
+        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

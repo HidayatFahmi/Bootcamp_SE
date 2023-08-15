@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj": {}
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj": {}
   },
   "projects": {
-    "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj": {
+    "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
+        "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
         "projectName": "MulticastDelegateAdv",
-        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
+        "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\MulticastDelegateAdv\\obj\\",
+        "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

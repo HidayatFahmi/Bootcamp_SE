@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A4_BasicMulticastDelegate\\A4_BasicMulticastDelegate.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A4_BasicMulticastDelegate\\A4_BasicMulticastDelegate.csproj",
       "projectName": "A4_BasicMulticastDelegate",
-      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A4_BasicMulticastDelegate\\A4_BasicMulticastDelegate.csproj",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A4_BasicMulticastDelegate\\A4_BasicMulticastDelegate.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A4_BasicMulticastDelegate\\obj\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A4_BasicMulticastDelegate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

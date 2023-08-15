@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegateGeneric\\A2_AdvanceDelegateGeneric.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegateGeneric\\A2_AdvanceDelegateGeneric.csproj",
       "projectName": "A2_AdvanceDelegateGeneric",
-      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegateGeneric\\A2_AdvanceDelegateGeneric.csproj",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegateGeneric\\A2_AdvanceDelegateGeneric.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A2_AdvanceDelegateGeneric\\obj\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A2_AdvanceDelegateGeneric\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

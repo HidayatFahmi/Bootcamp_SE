@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7R6BEXdddBtydWcGiRYiylshNZunSk2FodOpv1AAa6dtwx4CGISkpr1jC7yMMJZrh/OmOsHNTD6kEqbYMVUiA==",
+  "dgSpecHash": "I59eFUOL+OhsxL8Z0nBJa+bGL4Ggmr/pdE5ayCiujKK3JwPlM29Ok9054rUbjrxx89k1gl2FzW/iNwfxGb9jDw==",
   "success": true,
-  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj",
+  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A6a_DelegateforEventButton\\A6a_DelegateforEventButton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

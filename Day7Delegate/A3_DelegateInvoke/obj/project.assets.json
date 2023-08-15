@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A3_DelegateInvoke\\A3_DelegateInvoke.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A3_DelegateInvoke\\A3_DelegateInvoke.csproj",
       "projectName": "A3_DelegateInvoke",
-      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A3_DelegateInvoke\\A3_DelegateInvoke.csproj",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A3_DelegateInvoke\\A3_DelegateInvoke.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\A3_DelegateInvoke\\obj\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\A3_DelegateInvoke\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

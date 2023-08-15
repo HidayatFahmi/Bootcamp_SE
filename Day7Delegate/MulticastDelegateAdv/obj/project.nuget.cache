@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DwApTZhh0Bd51lU3se8M/SR7UveLws+b3oW+OvsopPNtLkzAI4PCVea220cxZeoiuYPNhQbIF8Tk14RAmgh0og==",
+  "dgSpecHash": "4lyVQ7PzA++OvkOvYdDutJbK0BMgRF2/mGKZR/vKPmyiu6BViEfcYaO2JobtlRwkGIFBGKp+IAgFskAE26HyEA==",
   "success": true,
-  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Delegate-main\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
+  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
