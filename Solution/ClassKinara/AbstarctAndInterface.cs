@@ -52,5 +52,4 @@ public class Program {
 		IScan printerscan = print3;
 		printerscan.Scan();
 		}
-
 }

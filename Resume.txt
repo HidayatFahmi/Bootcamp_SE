@@ -11,7 +11,7 @@ Day 1:
 
 * C# Project Structure
 - Declare solution file, bisa menampung multiple project. dengan cara jlankan terminal
-1. pada folder yagn dibuka ketik dotnet new sln
+1. pada folder yang dibuka ketik dotnet new sln
 2. buat folder
 3. masuk ker folder
 4. ketik dotnet new console
@@ -98,6 +98,7 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 - delegate
 - abstract
 - interface
+
 * Download mermaid
 
 ////////////////////// Day 8
@@ -181,6 +182,29 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 * Using Mermaid
 * relation class diagram
 
+/////////////////// Day12
+* Stack/ Tumpukan (LIFO)
+- terdapat 3 perintah 
+1. push, unutk memasukkan data
+2. pop, unutk mengambil data terakhir
+3. peek,unutk melihat data terakhir
+- tidak tipe safety
 
+* clone menggunakan prinsip shallow copy
+- value type dicopy
+- reference type diubah
+
+* CopyTo
+- vallue type dan reference type dibuat copy-an
+
+* Queue
+- teraddapat 3 perintah
+1. Enqueue()
+2. Dequeue()
+3. Peek()
+
+
+* untuk memmisahkan class pergerom menjadi 2 atu leboh file menggunakan Partial
+* using System.Collection.Generic
 
 
