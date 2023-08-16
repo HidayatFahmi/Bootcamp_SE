@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DPOjC2Yas7Mj08+lZIExnx5xQM401S7gLmuts7AZfSyIHeYP82yGdTCRwuiNR5yVbAKJcGoQ7T1w+Xm/M3x8Dg==",
+  "dgSpecHash": "re+Eek685jfn21x8rBgqVCJjYDloTx/KMZmqo9QGl7j9rL4oI1hK+WZksWPiZg9Y6veOLDsM27J9+eYxHe4DEw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 8\\TryandCatch_Multiple\\TryandCatch_Multiple.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day8Inumerable\\TryandCatch_Multiple\\TryandCatch_Multiple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

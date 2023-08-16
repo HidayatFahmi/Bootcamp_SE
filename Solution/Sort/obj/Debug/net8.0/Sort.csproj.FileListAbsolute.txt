@@ -1,0 +1,15 @@
+D:\C#\Bootcamp_SE\Solution\Sort\bin\Debug\net8.0\Sort.exe
+D:\C#\Bootcamp_SE\Solution\Sort\bin\Debug\net8.0\Sort.deps.json
+D:\C#\Bootcamp_SE\Solution\Sort\bin\Debug\net8.0\Sort.runtimeconfig.json
+D:\C#\Bootcamp_SE\Solution\Sort\bin\Debug\net8.0\Sort.dll
+D:\C#\Bootcamp_SE\Solution\Sort\bin\Debug\net8.0\Sort.pdb
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.AssemblyInfoInputs.cache
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.AssemblyInfo.cs
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.sourcelink.json
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.dll
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\refint\Sort.dll
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.pdb
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\Sort.genruntimeconfig.cache
+D:\C#\Bootcamp_SE\Solution\Sort\obj\Debug\net8.0\ref\Sort.dll

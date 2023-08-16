@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
+    "C:\\Users\\UsEr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
+      "projectUniqueName": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00Stack\\00Stack.csproj",
       "projectName": "00Stack",
-      "projectPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
-      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-      "outputPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\obj\\",
+      "projectPath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00Stack\\00Stack.csproj",
+      "packagesPath": "C:\\Users\\UsEr\\.nuget\\packages\\",
+      "outputPath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\UsEr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,6 +38,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -54,12 +57,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.8, 7.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.8, 7.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.8, 7.0.8]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.8, 7.0.8]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
       }
     }
   }

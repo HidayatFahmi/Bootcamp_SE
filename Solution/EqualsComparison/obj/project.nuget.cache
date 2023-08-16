@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+/5p2m+B/OEdZWOiIh8FXjXYNWQV6Y1mGuYo3V3cFpM2q9tsZHP+gesQC7G95VimD7AsUBAIO+kicOFtaYzVPg==",
+  "dgSpecHash": "rXYtQheDB6gTKd5AH/v3LqeiZXbnl+XIgbzIFNRA6X1co8CSF2P2/JRbXct0DrqmMvz/QQcEknbLJF0nN2gRTA==",
   "success": true,
-  "projectFilePath": "D:\\Formulatrix\\Bootcamp_SE\\Solution\\EqualsComparison\\EqualsComparison.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\EqualsComparison\\EqualsComparison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

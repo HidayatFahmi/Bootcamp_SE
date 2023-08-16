@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jESiim7XdegTvSLk8Tqe7b9g7WdBU1SURldo0Xib1LNx5R2GcXwP+6S6PdZIFflhHK6SumK/HmJybfaWXQeRCg==",
+  "dgSpecHash": "IzqK1J6at+HvedOMPepw2FqHlzL0egNJ1TcQRx9Y2f4UlcmxiJ8m6beTJsSwAvw8O377OK7DLUbMzpiNp8YLpA==",
   "success": true,
-  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Day-4-main\\E_Boxing\\E_Boxing.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day4main\\E_Boxing\\E_Boxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bx/st0Ti0CeReCjOleVFlMrYPhz1EvRTBg1bPe+tQeSxo6vWRbWm9Oeus+cif/NPkal//cuMZYW6x7oU2dx69w==",
+  "dgSpecHash": "aHlWa8hDjeXtfsASSg4dNfMsTRmayn24cUjPCTl2nWC5f1l6l+mQN67PsxgiwT2nwVTQH8lwBi8X2ZEyW9K4sg==",
   "success": true,
-  "projectFilePath": "D:\\Formulatrix\\Bootcamp_SE\\Solution\\Inumerator\\Inumerator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\Inumerator\\Inumerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

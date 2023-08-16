@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "R5NMfHp+SKJ9nC8VnDKBBkofn+TbD7G7z+OfAVK23kZ3D8mfcC8QF4henEuuODE7ifnUUl6N0rBj0y5MY3emEQ==",
+  "dgSpecHash": "QzZ0IQXDbdo9bbmKPcBBTPPVt5goxAO5GJjkc4ZkRoDSPiSqGIPy0IurOPx8lFO8RTxrRo4QQf0keXXULkgh0A==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 8\\Enum2\\Enum2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day8Inumerable\\Enum2\\Enum2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

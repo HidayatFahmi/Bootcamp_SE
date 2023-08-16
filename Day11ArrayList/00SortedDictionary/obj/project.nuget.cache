@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5+8t86d8cvRoXH+fHnvCuRqEEDNlUBaudCpHPNKgk6F08Nlntgc8Uib/uaCENPVfwPp1YQ/eyOEae72O+vYUA==",
+  "dgSpecHash": "NpXzz9zQqudydtiknIz2DC2uTgCISkbxqrOfMTV4swwNxOERaePm4Y7kSXV/0G0QCST30gKJjqM0Dr6/h0wmcQ==",
   "success": true,
-  "projectFilePath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00SortedDictionary\\00SortedDictionary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00SortedDictionary\\00SortedDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

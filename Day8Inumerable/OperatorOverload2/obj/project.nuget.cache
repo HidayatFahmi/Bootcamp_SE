@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nmLWaKqXb3wiP2gOYkfZTIWNkKsUtR+gXozwbXDtugAYQMdRHUG+NxdRJYWvmJH+PtM8EJEXmLS+NsrMDCuBuQ==",
+  "dgSpecHash": "lSnE6bQ+uKYKkXwJA4jX7I7pZIZBMtpGA2JFNcbO8UQZ35CFY2RY7QeubgX1E58oYLX5l9LkcXwOMAlIGxwc5w==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 8\\OperatorOverload2\\OperatorOverload2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day8Inumerable\\OperatorOverload2\\OperatorOverload2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

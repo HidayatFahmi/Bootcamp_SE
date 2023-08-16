@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj": {}
+    "d:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj": {
+    "d:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj",
         "projectName": "Tugas1",
-        "projectPath": "D:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj",
+        "projectPath": "d:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\Tugas1.csproj",
         "packagesPath": "C:\\Users\\UsEr\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\obj\\",
+        "outputPath": "d:\\C#\\Bootcamp_SE\\Solution\\Tugas1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UsEr\\AppData\\Roaming\\NuGet\\NuGet.Config"

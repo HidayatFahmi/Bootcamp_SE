@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AtjC9R9GJ6jOGcDzaaOwQDawUHimzsgjJn5DjKqQ5aEVE2usB9R0Rb0r6JbOvBIP2y2eozPudDjQkTwB/TSv2A==",
+  "dgSpecHash": "Tof6auTGR4BdJX4NBQxDDYsXAhaUodMQYSGb0gkx58cQXvD9vtJcNBNWHBOAH4hVUXRiT834xP3YprTn/sJJdg==",
   "success": true,
-  "projectFilePath": "D:\\Formulatrix\\Bootcamp_SE\\Solution\\OpertaorOverloading\\OpertaorOverloading.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\OpertaorOverloading\\OpertaorOverloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

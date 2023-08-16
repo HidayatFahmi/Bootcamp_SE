@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kM1PSIddJ5ywO+iykb2Ofxrkfd3cg2dkhKhqEME7km0+gJCZqVHfwnq1W9zsFjsKq5we+YwyCrDIswIOW4D5Rg==",
+  "dgSpecHash": "OvYNlmuj9XF+kUcLfo9Np3OBV04J7OySJylZgi5cOeqU1YsNnmtx5D5YT8eS8AQ2o1ohSMM8hWDb2QAhNtlsjw==",
   "success": true,
-  "projectFilePath": "D:\\Formulatrix\\Bootcamp_SE\\Solution\\StringMeth\\StringMeth.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Solution\\StringMeth\\StringMeth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

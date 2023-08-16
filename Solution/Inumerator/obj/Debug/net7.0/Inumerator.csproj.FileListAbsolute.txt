@@ -1,0 +1,15 @@
+D:\C#\Bootcamp_SE\Solution\Inumerator\bin\Debug\net7.0\Inumerator.exe
+D:\C#\Bootcamp_SE\Solution\Inumerator\bin\Debug\net7.0\Inumerator.deps.json
+D:\C#\Bootcamp_SE\Solution\Inumerator\bin\Debug\net7.0\Inumerator.runtimeconfig.json
+D:\C#\Bootcamp_SE\Solution\Inumerator\bin\Debug\net7.0\Inumerator.dll
+D:\C#\Bootcamp_SE\Solution\Inumerator\bin\Debug\net7.0\Inumerator.pdb
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.AssemblyInfoInputs.cache
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.AssemblyInfo.cs
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.sourcelink.json
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.dll
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\refint\Inumerator.dll
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.pdb
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\Inumerator.genruntimeconfig.cache
+D:\C#\Bootcamp_SE\Solution\Inumerator\obj\Debug\net7.0\ref\Inumerator.dll

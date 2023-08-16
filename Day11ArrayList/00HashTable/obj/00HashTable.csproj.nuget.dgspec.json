@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj": {}
+    "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00HashTable\\00HashTable.csproj": {}
   },
   "projects": {
-    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj": {
+    "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00HashTable\\00HashTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00HashTable\\00HashTable.csproj",
         "projectName": "00HashTable",
-        "projectPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\obj\\",
+        "projectPath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00HashTable\\00HashTable.csproj",
+        "packagesPath": "C:\\Users\\UsEr\\.nuget\\packages\\",
+        "outputPath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00HashTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\UsEr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -48,12 +51,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.8, 7.0.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.8, 7.0.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.8, 7.0.8]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.8, 7.0.8]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
         }
       }
     }

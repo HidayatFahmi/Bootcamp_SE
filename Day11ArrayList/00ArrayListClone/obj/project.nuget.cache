@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fsstiM45C0qbVj1hqGYrHJHOUi5Ujtv3QpHa2ev5TX6TbBA5Vwmd6tru1SoWf2DZm4VB2mlocnn18CJVx+XJLw==",
+  "dgSpecHash": "jDjJgqYiLziERilMqNtrf0/0rlg8L8A3Ljk3zShiqY/Jh2B29sSJWLd97g8quGAbyij7+9li3K1qQawcE2nf8g==",
   "success": true,
-  "projectFilePath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayListClone\\00ArrayListClone.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00ArrayListClone\\00ArrayListClone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

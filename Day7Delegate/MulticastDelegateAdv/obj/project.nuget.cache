@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4lyVQ7PzA++OvkOvYdDutJbK0BMgRF2/mGKZR/vKPmyiu6BViEfcYaO2JobtlRwkGIFBGKp+IAgFskAE26HyEA==",
+  "dgSpecHash": "G0jOcdRFRX2U5jRl6kXxFcyBZneHFbfFJjCzi8nGq75qr4rdHlbLdgVVYAARHx78B02mnGzJMcc0hmJ61PJbsA==",
   "success": true,
-  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day7Delegate\\MulticastDelegateAdv\\MulticastDelegateAdv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

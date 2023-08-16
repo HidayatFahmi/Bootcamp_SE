@@ -28,3 +28,18 @@ D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.dl
 D:\SE Formulatrix\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.pdb
 D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.genruntimeconfig.cache
 D:\SE Formulatrix\Solution\Encapsulation.cs\obj\Debug\net7.0\ref\Encapsulation.cs.dll
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.AssemblyInfoInputs.cache
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.AssemblyInfo.cs
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.sourcelink.json
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.dll
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\refint\Encapsulation.cs.dll
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.pdb
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.exe
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.deps.json
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.runtimeconfig.json
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.dll
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\bin\Debug\net7.0\Encapsulation.cs.pdb
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\Encapsulation.cs.genruntimeconfig.cache
+D:\C#\Bootcamp_SE\Solution\Encapsulation.cs\obj\Debug\net7.0\ref\Encapsulation.cs.dll

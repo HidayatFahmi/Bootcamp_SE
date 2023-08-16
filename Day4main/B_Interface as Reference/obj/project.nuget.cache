@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b2uOEaxsD6/VaYqAT9ML4OPIaiYwV55qWrP8ExRwmp/ZTcPLQ/rIFRYBkLkVOZTwA3whAXY20hgxdAXyR0hsyg==",
+  "dgSpecHash": "T+HRE6iOjTM6lwITZCC0+B0sh1kr6iywYw3ylmXKAVeMnJTHyvxWhrBsCN3pW9go5N0cBKZ7dtTLbSfSrQ0Mhg==",
   "success": true,
-  "projectFilePath": "d:\\Formulatrix\\Bootcamp_SE\\Day-4-main\\B_Interface as Reference\\B_Interface as Reference.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day4main\\B_Interface as Reference\\B_Interface as Reference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

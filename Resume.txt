@@ -14,7 +14,7 @@ Day 1:
 1. pada folder yang dibuka ketik dotnet new sln
 2. buat folder
 3. masuk ker folder
-4. ketik dotnet new console
+4. ketik dotnet new console 
 5. dotnet run, untuk running program + build
 6. dotnet build utk build
 
@@ -22,7 +22,11 @@ Day 1:
 * Membuat class diagram
 
 ////////////////// Day 2:
-inheritance
+* 4 pilar OOP
+- inheritance, polymorphism, encapsulation, 
+
+* inheritance
+ketika child menginheritance parent class maka instance parent dibuat
 
 Day 3:
 * encapsulation
@@ -32,7 +36,7 @@ Day 3:
 * polymorphism
 - overloading, overriding
 
-Day 4 :
+Day 4 : 
 * Abstraction
 1. concret class
 2. abstract class
@@ -87,7 +91,6 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
   mengeksekusi program bersamaan dengan berjalannya program lain
   - bisa membuat instance
   - delegate bisa mempassing method
-  - tidak bisa mendeclare 2 class
   - hsnys bids mnembhshks method dengan signature yang sama
 
 * tipe class 

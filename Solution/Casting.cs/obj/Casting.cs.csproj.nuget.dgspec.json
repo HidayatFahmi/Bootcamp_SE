@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj": {}
+    "d:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj": {
+    "d:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj",
         "projectName": "Casting.cs",
-        "projectPath": "D:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj",
+        "projectPath": "d:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\Casting.cs.csproj",
         "packagesPath": "C:\\Users\\UsEr\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\obj\\",
+        "outputPath": "d:\\C#\\Bootcamp_SE\\Solution\\Casting.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UsEr\\AppData\\Roaming\\NuGet\\NuGet.Config"

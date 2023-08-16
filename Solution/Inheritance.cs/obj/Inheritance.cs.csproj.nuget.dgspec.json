@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj": {}
+    "d:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj": {
+    "d:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj",
         "projectName": "Inheritance.cs",
-        "projectPath": "D:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj",
+        "projectPath": "d:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\Inheritance.cs.csproj",
         "packagesPath": "C:\\Users\\UsEr\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\obj\\",
+        "outputPath": "d:\\C#\\Bootcamp_SE\\Solution\\Inheritance.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UsEr\\AppData\\Roaming\\NuGet\\NuGet.Config"

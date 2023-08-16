@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SIOQxYYUH2NV/2gd+HhciGWnDAHaarFfPxuNBqmzUQZJ/jsAFRqHd0vMnhqR1ofkudESYqK8Fx6LWc82fStItw==",
+  "dgSpecHash": "DqXoEG0S0N5BVlnykWY7qni4EHX+juoY69tVvcrjlOm5Z8YAD+ZXRNnuY7OnHtidqeCiSF86qlStjsvg/eSVYw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 8\\00OperatorOver\\00OperatorOver.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day8Inumerable\\00OperatorOver\\00OperatorOver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

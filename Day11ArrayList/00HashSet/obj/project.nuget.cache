@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yuOfRFe0qR8rjF2Qbx+M1Ncm7QqOetzQQUCfDZxV5j4ICP0a87pDzGeoiXB7Qsa4wYwI/eu9z0bASrN4g/tWGQ==",
+  "dgSpecHash": "7kGfCnCtddtnPF+FkjcVlyFMZHP0fGUT/7QbHN1n0o0M7h41pGj5XPtO4bvcTA1kjCFafNXCcsDE0gnpZddilg==",
   "success": true,
-  "projectFilePath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashSet\\00HashSet.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day11ArrayList\\00HashSet\\00HashSet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

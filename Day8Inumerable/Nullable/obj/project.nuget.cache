@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Fu/hFoADzsIxKlLB96wHJTX8NRADPoz4OfoHD+NydDgkz7pxGsh4Uh17su3/za9m0i8hYc92QEo+5IvZdEX15Q==",
+  "dgSpecHash": "3mciCmThgTLtFBYjm2OcmR5CMs9PPRRY6vPtA/mCMYF4j8GsjBAvE5FGtkFrBYOQhyzNFHWOIf5cZlUF0ZYghg==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 8\\Nullable\\Nullable.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day8Inumerable\\Nullable\\Nullable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
