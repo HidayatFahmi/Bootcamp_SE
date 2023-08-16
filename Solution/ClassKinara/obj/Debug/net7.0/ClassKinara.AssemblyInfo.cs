@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassKinara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b87ceb00ce35f3d0a21bee33ed591600ded595")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassKinara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassKinara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

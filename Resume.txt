@@ -109,7 +109,7 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 * publisher and subscriber 
 * MyEvent?.Invoke (message) //mengeksekusi file jiks delegate tidak memiliki value null
 * event hanya bisa += dan -= todak bisa =
-* jika tidak mendeclare delegate pada class maka akan otomstis membuat  delegate dengan type data void dengan 2 object yaitu object dan eventArgs
+* jika tidak mendeclare delegate pada class maka akan otomatis membuat delegate dengan type data void dengan 2 object yaitu object dan eventArgs
 * direkomendasikan dengan return type void 
 * harus dengan eventHandler jik tidak mendeklarasikan event sebelumnya
 
@@ -201,7 +201,7 @@ artinya memori akan membuat baru ketika ada penambahan string, unutk mengatasi i
 - vallue type dan reference type dibuat copy-an
 
 * Queue
-- teraddapat 3 perintah
+- terdapat 3 perintah
 1. Enqueue()
 2. Dequeue()
 3. Peek()

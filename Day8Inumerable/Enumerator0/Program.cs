@@ -44,7 +44,7 @@ class MySequence : IEnumerable
 
 class Program
 {
-	static void Main(string[] args)
+	static void Main()
 	{
 		MySequence sequence = new MySequence();
 

@@ -8,14 +8,10 @@
           "Google.Apis.Core": "1.61.0"
         },
         "compile": {
-          "lib/netstandard2.0/Google.Apis.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Google.Apis.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.dll": {}
         }
       },
       "Google.Apis.Auth/1.61.0": {
@@ -26,15 +22,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {},
-          "lib/netstandard2.0/Google.Apis.Auth.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {}
         },
         "runtime": {
           "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {},
-          "lib/netstandard2.0/Google.Apis.Auth.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {}
         }
       },
       "Google.Apis.Calendar.v3/1.61.0.3095": {
@@ -44,14 +36,10 @@
           "Google.Apis.Auth": "1.61.0"
         },
         "compile": {
-          "lib/netstandard2.0/Google.Apis.Calendar.v3.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.Calendar.v3.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Google.Apis.Calendar.v3.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.Calendar.v3.dll": {}
         }
       },
       "Google.Apis.Core/1.61.0": {
@@ -60,27 +48,19 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "lib/netstandard2.0/Google.Apis.Core.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.Core.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Google.Apis.Core.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Apis.Core.dll": {}
         }
       },
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         }
       }
     }
@@ -220,24 +200,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UsEr\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 4\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\C#\\Bootcamp_SE\\Day7Delegate\\Trial\\Trial.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\Trial\\Trial.csproj",
       "projectName": "Trial",
-      "projectPath": "d:\\C#\\Bootcamp_SE\\Day7Delegate\\Trial\\Trial.csproj",
-      "packagesPath": "C:\\Users\\UsEr\\.nuget\\packages\\",
-      "outputPath": "d:\\C#\\Bootcamp_SE\\Day7Delegate\\Trial\\obj\\",
+      "projectPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\Trial\\Trial.csproj",
+      "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+      "outputPath": "d:\\Formulatrix\\Bootcamp_SE\\Day7Delegate\\Trial\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\UsEr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -250,9 +236,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -274,35 +257,16 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.8, 7.0.8]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.8, 7.0.8]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.8, 7.0.8]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.8, 7.0.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
       }
     }
   }

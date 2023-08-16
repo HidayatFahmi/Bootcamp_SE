@@ -1,16 +1,13 @@
-﻿class Program
-{
-	static void Main()
-	{
-		List<int> list = new List<int>() {5,6,3,4,2,1,7};
-		list.Add(8);
-		Console.WriteLine(list[6]);
-		Console.WriteLine(list.Count());
-		list.Sort((a,b)=>b.CompareTo(a));
-		
-		foreach(int x in list)
-		{
-			Console.WriteLine(x);
-		}
-	}
-}
+﻿// class Program
+// {
+// 	static void Main()
+// 	{
+// 		List<int> arrayAngka = new List<int> {1,2,3,4,5,6,7};
+// 		arrayAngka.Add(8);
+// 		arrayAngka.Sort((a,b)=>a.CompareTo)
+// 		foreach(int array in arrayAngka)
+// 		{
+// 			Console.WriteLine(array);
+// 		}
+// 	}
+// }

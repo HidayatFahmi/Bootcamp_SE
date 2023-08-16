@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\refint\Enumerator.dll
 c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.pdb
 c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\ref\Enumerator.dll
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\bin\Debug\net7.0\Enumerator.exe
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\bin\Debug\net7.0\Enumerator.deps.json
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\bin\Debug\net7.0\Enumerator.runtimeconfig.json
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\bin\Debug\net7.0\Enumerator.dll
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\bin\Debug\net7.0\Enumerator.pdb
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.csproj.AssemblyReference.cache
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfoInputs.cache
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfo.cs
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.csproj.CoreCompileInputs.cache
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.dll
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\refint\Enumerator.dll
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.pdb
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\Enumerator.genruntimeconfig.cache
+D:\Formulatrix\Bootcamp_SE\Day8Inumerable\Enumerator\obj\Debug\net7.0\ref\Enumerator.dll

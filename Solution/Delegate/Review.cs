@@ -15,7 +15,7 @@
 // 	}
 // }
 
-// class Program
+// class Programa
 // {
 // 	static void Main()
 // 	{
@@ -79,12 +79,12 @@ class Subscribber
 {
 	public void Notification1(string notif)
 	{
-		Console.WriteLine("Done subscribe by user 1 "+notif);
+		Console.WriteLine("Done subscribe by user 1 "+ notif);
 	}
 	
 	public void Notification2(string notif)
 	{
-		Console.WriteLine("Done subscribe by user 2 "+notif);
+		Console.WriteLine("Done subscribe by user 2 "+ notif);
 	}
 }
 

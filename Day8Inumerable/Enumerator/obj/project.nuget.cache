@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ZZIvrGQ9IOjOQB0uqtJoCYDtrzvjjnodN/1FUKnRNhulvRV4UyE1NUxbDzJ7uNbOsdq4Tmfc8U89LsY02WdNg==",
+  "dgSpecHash": "Hg/eT6UIxkmJG6J5+JAGJy5YvsBjyH53WQfCEocxDbLPi+WoxdsP9O03w+ipLlVz7k9JIoQHMNTpbrh12pK/8A==",
   "success": true,
-  "projectFilePath": "d:\\C#\\Bootcamp_SE\\Day8Inumerable\\Enumerator\\Enumerator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
-    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
-    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
-    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Formulatrix\\Bootcamp_SE\\Day8Inumerable\\Enumerator\\Enumerator.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
