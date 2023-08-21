@@ -1,0 +1,57 @@
+classDiagram
+    class Tile {
+        - value: int
+        + Tile(value: int)
+        + getValue(): int
+    }
+
+    class DominoTile {
+        - leftTile: Tile
+        - rightTile: Tile
+        + DominoTile(leftTile: Tile, rightTile: Tile)
+        + getLeftTile(): Tile
+        + getRightTile(): Tile
+    }
+
+    class Player {
+        - name: String
+        - hand: List<DominoTile>
+        + Player(name: String)
+        + drawTile(tile: DominoTile): void
+        + playTile(tile: DominoTile): boolean
+        + getHand(): List<DominoTile>
+        + getScore(): int
+    }
+
+    class Board {
+        - placedTiles: List<DominoTile>
+        + Board()
+        + canPlaceTile(tile: DominoTile): boolean
+        + placeTile(tile: DominoTile, side: String, index: int): boolean
+        + calculateScore(): int
+        + isGameEnd(): boolean
+    }
+
+    class GameController {
+        - players: List<Player>
+        - board: Board
+        - currentPlayerIndex: int
+        + GameController(playerNames: List<String>)
+        + startGame(): void
+        + playTurn(player: Player, tile: DominoTile, side: String): boolean
+        + getCurrentPlayer(): Player
+        + getWinner(): Player
+    }
+
+    class TileFactory {
+        + generateTiles(): List<Tile>
+    }
+
+    GameController --> Player : association
+    GameController --o Board : aggregation
+    Player --|> Piece : inherits
+    Tile --|> Piece : inherits
+    DominoTile --* Tile : composition
+    Player --> Tile : association
+    Board --o DominoTile : aggregation
+    GameController --> TileFactory : association
